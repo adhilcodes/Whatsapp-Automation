@@ -6,7 +6,7 @@ This is a python code to automate whatsapp text messages which is built using se
 
   - Insatall Python3
  
-  - install Selenium Automation Framework (I recommend using **pip** to install Selenium)
+  - Install Selenium Automation Framework : `pip install selenium`
   
   ## Resources
 
